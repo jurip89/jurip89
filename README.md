@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there  I am Juri 👋
 
-<!--
-**jurip89/jurip89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-Juri_Parladore-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juri-parladore-49071414b//)](https://www.linkedin.com/in/juri-parladore-49071414b/) [![Gmail Badge](https://img.shields.io/badge/-juriparladore@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juriparladore@gmail.com)](mailto:juriparladore@gmail.com)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### About
 
-Here are some ideas to get you started:
+-  **Learning :** As much as possible :zap: :fire:	
+-  **Languages :** HTML, CSS, JavaScript
+-  **In love with :** React ⚛️
+-  **Hobbies :** Cinema and Travel 🗺️:
+-  **Fact :** First solve the problem, then write the code :heart: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![github stats](https://github-readme-stats.vercel.app/api?username=jurip89&show_icons=true)
+
+-------------------------------------------------------------------------------------------------------------------------------------------
