@@ -5,9 +5,8 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
--  **Learning :** As much as possible :zap: :fire:	
--  **Languages :** HTML, CSS, JavaScript
--  **In love with :** React ⚛️
+-  **Learning :** truffle suite and hard-hat :zap: :fire:	
+-  **Skills :** HTML, CSS, JavaScript, React, Redux, Sequelize, Postgres, MongoDB, git, node.js
 -  **Hobbies :** Cinema and Travel 🗺️:
 -  **Fact :** First solve the problem, then write the code :heart: 
 
